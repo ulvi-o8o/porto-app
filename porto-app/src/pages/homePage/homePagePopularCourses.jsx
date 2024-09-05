@@ -5,7 +5,7 @@ import { GoCommentDiscussion } from "react-icons/go";
 const HomePagePopularCourses = () => {
   return (
     <>
-      <section className="w-[1349px] h-[634px] bg-gray-200  flex justify-center items-center">
+      <section className="w-[1349px] h-[634px] bg-gray-100  flex justify-center items-center">
         <div className="w-[1140px] h-[486px]  flex flex-col justify-center items-center">
           <div className="w-[1116px] h-[38px] flex  justify-center items-center">
             <h2 className=" font-bold text-3xl text-[#332859]">
@@ -138,7 +138,6 @@ const HomePagePopularCourses = () => {
           </div>
         </div>
       </section>
-      ;
     </>
   );
 };
